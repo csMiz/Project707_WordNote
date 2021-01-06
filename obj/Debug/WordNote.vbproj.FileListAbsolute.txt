@@ -1,0 +1,34 @@
+C:\Users\asdfg\AppData\Local\Temporary Projects\WordNote\bin\Debug\WordNote.exe.config
+C:\Users\asdfg\AppData\Local\Temporary Projects\WordNote\bin\Debug\WordNote.exe
+C:\Users\asdfg\AppData\Local\Temporary Projects\WordNote\bin\Debug\WordNote.pdb
+C:\Users\asdfg\AppData\Local\Temporary Projects\WordNote\bin\Debug\WordNote.xml
+C:\Users\asdfg\AppData\Local\Temporary Projects\WordNote\obj\Debug\WordNote.vbprojAssemblyReference.cache
+C:\Users\asdfg\AppData\Local\Temporary Projects\WordNote\obj\Debug\MainWindow.g.vb
+C:\Users\asdfg\AppData\Local\Temporary Projects\WordNote\obj\Debug\Application.g.vb
+C:\Users\asdfg\AppData\Local\Temporary Projects\WordNote\obj\Debug\WordNote_MarkupCompile.cache
+C:\Users\asdfg\AppData\Local\Temporary Projects\WordNote\obj\Debug\WordNote_MarkupCompile.lref
+C:\Users\asdfg\AppData\Local\Temporary Projects\WordNote\obj\Debug\MainWindow.baml
+C:\Users\asdfg\AppData\Local\Temporary Projects\WordNote\obj\Debug\WordNote.g.resources
+C:\Users\asdfg\AppData\Local\Temporary Projects\WordNote\obj\Debug\WordNote.Resources.resources
+C:\Users\asdfg\AppData\Local\Temporary Projects\WordNote\obj\Debug\WordNote.vbproj.GenerateResource.cache
+C:\Users\asdfg\AppData\Local\Temporary Projects\WordNote\obj\Debug\WordNote.vbproj.CoreCompileInputs.cache
+C:\Users\asdfg\AppData\Local\Temporary Projects\WordNote\obj\Debug\WordNote.exe
+C:\Users\asdfg\AppData\Local\Temporary Projects\WordNote\obj\Debug\WordNote.xml
+C:\Users\asdfg\AppData\Local\Temporary Projects\WordNote\obj\Debug\WordNote.pdb
+C:\Users\asdfg\Desktop\WordNote\WordNote\WordNote\bin\Debug\WordNote.exe.config
+C:\Users\asdfg\Desktop\WordNote\WordNote\WordNote\bin\Debug\WordNote.exe
+C:\Users\asdfg\Desktop\WordNote\WordNote\WordNote\bin\Debug\WordNote.pdb
+C:\Users\asdfg\Desktop\WordNote\WordNote\WordNote\bin\Debug\WordNote.xml
+C:\Users\asdfg\Desktop\WordNote\WordNote\WordNote\obj\Debug\WordNote.vbprojAssemblyReference.cache
+C:\Users\asdfg\Desktop\WordNote\WordNote\WordNote\obj\Debug\MainWindow.g.vb
+C:\Users\asdfg\Desktop\WordNote\WordNote\WordNote\obj\Debug\Application.g.vb
+C:\Users\asdfg\Desktop\WordNote\WordNote\WordNote\obj\Debug\WordNote_MarkupCompile.cache
+C:\Users\asdfg\Desktop\WordNote\WordNote\WordNote\obj\Debug\WordNote_MarkupCompile.lref
+C:\Users\asdfg\Desktop\WordNote\WordNote\WordNote\obj\Debug\MainWindow.baml
+C:\Users\asdfg\Desktop\WordNote\WordNote\WordNote\obj\Debug\WordNote.g.resources
+C:\Users\asdfg\Desktop\WordNote\WordNote\WordNote\obj\Debug\WordNote.Resources.resources
+C:\Users\asdfg\Desktop\WordNote\WordNote\WordNote\obj\Debug\WordNote.vbproj.GenerateResource.cache
+C:\Users\asdfg\Desktop\WordNote\WordNote\WordNote\obj\Debug\WordNote.vbproj.CoreCompileInputs.cache
+C:\Users\asdfg\Desktop\WordNote\WordNote\WordNote\obj\Debug\WordNote.exe
+C:\Users\asdfg\Desktop\WordNote\WordNote\WordNote\obj\Debug\WordNote.xml
+C:\Users\asdfg\Desktop\WordNote\WordNote\WordNote\obj\Debug\WordNote.pdb

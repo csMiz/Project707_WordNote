@@ -1,0 +1,31 @@
+﻿<Window x:Class="MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WordNote"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Grid x:Name="grid_home">
+            <TextBox x:Name="tbox_search" HorizontalAlignment="Left" VerticalAlignment="Top" Height="24" Width="220" Margin="10,10,0,0"></TextBox>
+            <ListView x:Name="list_search" HorizontalAlignment="Left" Width="240" Margin="0,44,0,0" >
+                
+            </ListView>
+            <ListView x:Name="list1" Margin="240,0,0,0" >
+
+            </ListView>
+        </Grid>
+        <Grid x:Name="grid_display" Visibility="Collapsed"   >
+            <TextBlock x:Name="tb_progress" Text="1/300" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0" />
+            <Rectangle x:Name="rect_bg" Width="100" Height="5" Fill="#FFD2D2D2" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,20,5,0"  />
+            <Rectangle x:Name="rect_progress" Width="100" Height="5" Fill="#FFD2D2D2" HorizontalAlignment="Right" VerticalAlignment="Top" Margin="0,20,5,0"  />
+            <TextBlock x:Name="tb_wordContent" Text="abandon" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,-100,0,0" FontSize="48" FontWeight="Bold" />
+            <TextBlock x:Name="tb_chinese" Text="放弃" HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,50,0,0" FontSize="24"/>
+            <Button x:Name="btn_know" Content="知道" Width="240" Height="60" HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="-300,0,0,20"/>
+            <Button x:Name="btn_hint" Content="看答案" Width="180" Height="60" HorizontalAlignment="Center" VerticalAlignment="Bottom" Margin="300,0,0,20" />
+            
+        </Grid> 
+            
+    </Grid>
+</Window>
